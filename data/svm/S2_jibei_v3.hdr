@@ -1,0 +1,24 @@
+ENVI
+description = {
+  SVM Classification Result [Tue Apr 18 08:02:56 2023]}
+samples = 507
+lines   = 624
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 3
+class lookup = {
+   0,   0,   0, 145,  44, 238, 255, 127,  80}
+class names = {
+ Unclassified, water, land}
+byte order = 0
+x start = 6311
+y start = 6781
+map info = {UTM, 1.000, 1.000, 763060.000, 2632200.000, 1.0000000000e+01, 1.0000000000e+01, 50, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_50N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",117.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ SVM (S2_jibei.tif)}
